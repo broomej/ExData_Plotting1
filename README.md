@@ -1,3 +1,6 @@
+Please execute the readData script *before* attempting to execute any of the plot scripts
+
+
 ## Introduction
 
 This assignment uses data from
