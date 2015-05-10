@@ -10,3 +10,5 @@ HPC$dateTime <- chron(dates = as.character(HPC$Date), times = HPC$Time, format =
 HPC$Sub_metering_1 <- as.numeric(as.character(HPC$Sub_metering_1))
 HPC$Sub_metering_2 <- as.numeric(as.character(HPC$Sub_metering_2))
 HPC$Sub_metering_3 <- as.numeric(as.character(HPC$Sub_metering_3))
+HPC$Voltage <- as.numeric(as.character(HPC$Voltage))
+HPC$Global_reactive_power <- as.numeric(as.character(HPC$Global_reactive_power))
