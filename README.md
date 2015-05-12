@@ -1,4 +1,5 @@
 Please execute the readData script *before* attempting to execute any of the plot scripts
+This script assumes the source data are stored in ../ExData_Plotting1_sourceData/
 
 
 ## Introduction
